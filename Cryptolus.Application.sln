@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cryptolus.Application", "Cryptolus.Application\Cryptolus.Application.csproj", "{9AC88AAD-C8CB-42B0-9637-87C5011FF81F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cryptolus.Domain", "Cryptolus.Domain\Cryptolus.Domain.csproj", "{FC199E7B-485C-4CBC-93B7-8FDCA7D498D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cryptolus.Persistant", "Cryptolus.Persistant\Cryptolus.Persistant.csproj", "{710109A8-BB12-461D-B02C-CCDA631C94E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cryptolus.Shared", "Cryptolus.Shared\Cryptolus.Shared.csproj", "{42C12D89-16CE-4650-BD8E-03EF4377D6DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cryptolus.Infrastructure", "Cryptolus.Infrastructure\Cryptolus.Infrastructure.csproj", "{355F11B9-D260-4CF8-AD46-BA1B6890A958}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cryptolus.Presentation", "Cryptolus.Presentation\Cryptolus.Presentation.csproj", "{239635D4-050A-41FD-90E0-B09C974B260C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AC88AAD-C8CB-42B0-9637-87C5011FF81F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AC88AAD-C8CB-42B0-9637-87C5011FF81F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AC88AAD-C8CB-42B0-9637-87C5011FF81F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AC88AAD-C8CB-42B0-9637-87C5011FF81F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC199E7B-485C-4CBC-93B7-8FDCA7D498D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC199E7B-485C-4CBC-93B7-8FDCA7D498D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC199E7B-485C-4CBC-93B7-8FDCA7D498D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC199E7B-485C-4CBC-93B7-8FDCA7D498D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{710109A8-BB12-461D-B02C-CCDA631C94E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{710109A8-BB12-461D-B02C-CCDA631C94E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{710109A8-BB12-461D-B02C-CCDA631C94E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{710109A8-BB12-461D-B02C-CCDA631C94E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42C12D89-16CE-4650-BD8E-03EF4377D6DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42C12D89-16CE-4650-BD8E-03EF4377D6DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42C12D89-16CE-4650-BD8E-03EF4377D6DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42C12D89-16CE-4650-BD8E-03EF4377D6DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{355F11B9-D260-4CF8-AD46-BA1B6890A958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{355F11B9-D260-4CF8-AD46-BA1B6890A958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{355F11B9-D260-4CF8-AD46-BA1B6890A958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{355F11B9-D260-4CF8-AD46-BA1B6890A958}.Release|Any CPU.Build.0 = Release|Any CPU
+		{239635D4-050A-41FD-90E0-B09C974B260C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{239635D4-050A-41FD-90E0-B09C974B260C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{239635D4-050A-41FD-90E0-B09C974B260C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{239635D4-050A-41FD-90E0-B09C974B260C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54111E49-EA64-46A7-AD7D-4C36CA2E6A98}
+	EndGlobalSection
+EndGlobal
